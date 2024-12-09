@@ -1,4 +1,3 @@
-![Web designer and developer ](https://github.com/wpsabbir688/wpsabbir/blob/main/WordPress.png) 
 
 
 # Hi there 👋, I'm Sabbir Hossain
